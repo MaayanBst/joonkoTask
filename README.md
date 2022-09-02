@@ -1,2 +1,2 @@
 # joonkoTask
-api for user login and job finding for jppnko
+api for user login and job finding for joonko
